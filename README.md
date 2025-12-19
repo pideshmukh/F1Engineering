@@ -1,5 +1,4 @@
-❗ About the Project
-Objective
+❗Objective
 Designed and implemented a scalable, end-to-end data engineering solution on the Microsoft Azure platform to process and analyze historical Formula 1 racing data. The project involved building a robust data lakehouse architecture to provide actionable insights into driver and team performance.
 
 ⚙️ Azure Databricks
